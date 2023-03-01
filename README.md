@@ -1,10 +1,21 @@
 # GoSubSeeker
 
 <center>
-[![forthebadge](https://forthebadge.com/generator/?plabel=Made+with&slabel=GO)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/generator/?plabel=Build+ with&slabel=❤️)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/generator/?plabel=Open&slabel=Source) &nbsp;
-  </center>
+	
+![build-with-love](https://user-images.githubusercontent.com/67673221/222180229-23287ecf-e910-410d-94d8-30356d006302.svg)
+![made-with-go](https://user-images.githubusercontent.com/67673221/222180277-0bdd8e7b-7852-43a7-8224-daad7d7947bd.svg)
+![open-source](https://user-images.githubusercontent.com/67673221/222180309-821620f6-dbb1-441d-96e6-e3fec74cbb02.svg)	
+ </center>
+ 
+ <br/>
+
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+
+</center>
 
 <h3 align="center">
     🐞
