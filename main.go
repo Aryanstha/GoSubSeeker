@@ -35,7 +35,7 @@ func main() {
 	}
 }
 
-func loadOptions() *lib.Options {
+func loadOptions() *lib.Options { // load options
 	o := lib.New()
 	flag.IntVar(&o.Threads, "t", 200, "Num of scan threads")
 	flag.IntVar(&o.Depth, "depth", 1, "Scan sub domain depth. range[>=1]")
