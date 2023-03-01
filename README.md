@@ -23,18 +23,22 @@ To install GoSubSeeker, you need to have Go installed on your machine. If you do
   ```bash
 git clone https://github.com/your_username/GoSubSeeker.git
   ```
+  
 - Change into the directory:
 ```
 cd GoSubSeeker
 ```
+
 - Build the executable:
 ```
 go build
 ```
+
 - run build file
 ```
 ./GoSubSeeker
 ```
+
 ## Usage
 ```bash
 Usage of ./subdomain-scanner -h
