@@ -9,14 +9,6 @@
  
  <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
 <h3 align="center">
     🐞
     <a href="https://github.com/Aryanstha/Code-Chronicles/issues">Report Bug</a> &nbsp; &nbsp;
@@ -30,29 +22,29 @@ GoSubSeeker is a command-line tool written in Go programming language that scans
 
 To install GoSubSeeker, you need to have Go installed on your machine. If you don't have it already, you can download it from the official website: https://golang.org/dl/. Once you have Go installed, follow these steps:
 
-- Clone this repository using Git:
-  ```bash
+1. Clone this repository using Git:
+
+```
 git clone https://github.com/your_username/GoSubSeeker.git
-  ```
+```
   
-- Change into the directory:
+2. Change into the directory:
 ```
 cd GoSubSeeker
 ```
 
-- Build the executable:
+3. Build the executable:
 ```
 go build
 ```
-
-- run build file
+4. run build file
 ```
 ./GoSubSeeker
 ```
 
 ## Usage
 ```bash
-Usage of ./subdomain-scanner -h
+Usage of ./GoSubSeeker -h
   -axfr
 		DNS Zone Transfer Protocol (AXFR) of RFC 5936 (default true)
   -d string
