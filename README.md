@@ -1,4 +1,4 @@
-# GoSubSeeker
+# GoSubSeeker 🔎
 
 <center>
 	
