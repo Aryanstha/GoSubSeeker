@@ -66,6 +66,11 @@ Usage of ./GoSubSeeker -h
 		Num of scan threads (default 200)
    ```
    
+   ## Demo
+   
+   ![image](https://user-images.githubusercontent.com/67673221/222183157-1d983af5-f719-4453-b380-dc0685870e54.png)
+
+   
    ### Show your support
 
 <a href="https://www.buymeacoffee.com/ajty97921p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
